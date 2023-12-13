@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MasoJ1
-- 👀 I’m interested in videogames, sci-fi, 
+- 👀 I’m interested in videogames, sci-fi
 - 🌱 I’m currently learning python for medics
 - 💞️ I’m looking to collaborate on someone who can teach me something interesting
 - 📫 How to reach me kkurnaevv@gmail.com 
